@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74CBT3257C
+D Quad Channel 2 x 1 Multiplexer
+K mux Quad
+$ENDCMP
+#
+#End Doc Library
