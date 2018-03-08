@@ -1,4 +1,4 @@
-update=Thu 08 Mar 2018 11:23:10 AM MST
+update=Thu 08 Mar 2018 04:39:05 PM MST
 version=1
 last_client=kicad
 [pcbnew]
@@ -168,3 +168,5 @@ LibName136=SparkFun-KiCad-Libraries/Libraries/SparkFun-Resistors
 LibName137=SparkFun-KiCad-Libraries/Libraries/SparkFun-RF
 LibName138=SparkFun-KiCad-Libraries/Libraries/SparkFun-Sensors
 LibName139=SparkFun-KiCad-Libraries/Libraries/SparkFun-Switches
+LibName140=Footprints/ugl-kicad-lib/library/ugl
+LibName141=Footprints/sn74cbt3257c
